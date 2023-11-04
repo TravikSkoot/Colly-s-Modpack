@@ -1,3 +1,5 @@
+![Colly's Modpack Logo](collys_modpack.png)
+
 # Colly's Modpack 1.20.1 NeoForge
 
 Willkommen bei "Colly's Modpack" für Minecraft 1.20.1 NeoForge, kuratiert von TravikSkoot. Dieses Modpack bietet eine sorgfältig ausgewählte Sammlung von Mods, die dein Minecraft-Erlebnis bereichern und erweitern werden.
