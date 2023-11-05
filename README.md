@@ -21,7 +21,7 @@ Folge diesen Schritten, um "Colly's Modpack" über den ATLauncher zu installiere
 
 6. **Arbeitsspeicher einstellen**: Stelle sicher, dass in den Einstellungen des ATLaunchers der verfügbare Arbeitsspeicher auf die Hälfte des Gesamtarbeitsspeichers deines PCs eingestellt ist, um eine optimale Leistung zu gewährleisten.
 
-7. **Forge ersetzen**: Nach der Installation von "Colly's Modpack" musst du `Forge` entfernen und durch `NeoForge` ersetzen. Dies kannst du tun, indem du im ATLauncher auf "Edit Instance" gehst, dort "Remove Forge" auswählst und dann über "Edit Instance" > "Add NeoForge" die neue Mod-Loader-Version hinzufügst.
+7. **Forge ersetzen**: Nach der Installation von "Colly's Modpack" musst du `Forge` entfernen und durch `NeoForge` ersetzen. Dies kannst du tun, indem du im ATLauncher auf `Edit Instance` gehst, dort `Remove Forge` auswählst und dann über `Edit Instance > Add NeoForge` die neue Mod-Loader-Version hinzufügst.
 
 ## Mods im Paket
 
